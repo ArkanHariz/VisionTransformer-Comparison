@@ -1,0 +1,8 @@
+*.tar.gz
+data_batch_*
+test_batch
+batches.meta
+*.html
+__pycache__/
+Swin-Tiny_best.pth
+ViT-Tiny_best.pth
